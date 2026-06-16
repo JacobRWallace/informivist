@@ -10,7 +10,7 @@ function Home() {
         <ModelViewer />
         <p className="overlay-text">
           𝘯𝘰𝘶𝘯 [in·​for·​mi·​vist] <br />
-          an individual or someone; who shares information.
+          an individual or someone, who shares information.
         </p>
       </div>
       <div>
